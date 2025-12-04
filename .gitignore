@@ -1,0 +1,45 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+out/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Java-specific
+*.class
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# IntelliJ caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# IntelliJ plugin-specific
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Ignore compiled test results
+test-output/
+
+# Ignore any local environment configs
+.env
