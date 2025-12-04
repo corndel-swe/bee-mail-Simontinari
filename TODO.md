@@ -21,6 +21,7 @@ classDiagram
         -App instance $
         -App()
         +getInstance() $ : App
+        +helloSimon() $ : String
     }
 ```
 
